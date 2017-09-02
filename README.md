@@ -1,2 +1,2 @@
 # space-travel
-psp homebrew
+psp homebrew using graphic library oslib
